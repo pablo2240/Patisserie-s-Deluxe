@@ -1,1 +1,1 @@
-Aquí se describen los requerimientos funcionales y no funcionales.
+Aquí se describen los requerimientos funcionales, Nofuncionales, Requisitos de Negocio y Información.
